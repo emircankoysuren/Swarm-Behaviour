@@ -1,1 +1,1 @@
-# Swarm-Behaviour
+Veri seti boyutları (yaklaşık 700MB) GitHub yükleme sınırlarını aştığı için veri dosyaları Google Drive üzerinde saklanmaktadır. Projeyi çalıştırmak için [https://drive.google.com/drive/folders/1v4C7iGCOtAgh_mf_iOKo4qx9ucQuhPN3?usp=drive_link] adresindeki Aligned.csv, Flocking.csv ve Grouped.csv dosyalarını indirip çalışma dizinine ekleyiniz.
